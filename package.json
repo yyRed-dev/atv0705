@@ -1,0 +1,11 @@
+{
+  "name": "atv0705",
+  "version": "1.0.0",
+  "description": "Implementar um servidor REST na linguagem Node.js e testar a invocação de requisições GET através de um cliente implementado em outra linguagem (no caso Java).",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
